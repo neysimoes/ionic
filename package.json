@@ -22,7 +22,7 @@
     "gulp-uglify": "^0.2.1",
     "gulp-rename": "^1.1.0",
     "gulp-header": "^1.0.2",
-    "lodash.template": "^2.4.1",
+    "lodash.template": "^4.5.0",
     "connect": "^2.13.0",
     "through": "^2.3.4",
     "gulp-if": "0.0.5",
