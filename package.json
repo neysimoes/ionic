@@ -28,7 +28,7 @@
     "gulp-if": "0.0.5",
     "gulp": "^3.7.0",
     "canonical-path": "0.0.2",
-    "lodash": "^2.4.1",
+    "lodash": "^4.17.19",
     "winston": "^0.7.2",
     "minimist": "0.0.8",
     "gulp-minify-css": "^0.3.0",
